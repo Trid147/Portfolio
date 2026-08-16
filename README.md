@@ -1,2 +1,3 @@
-# Portfolio
-A curated collection of my best Luau scripts and custom mechanics for Roblox Studio.
+# My collection of scripts and mechanics for Roblox Studio
+
+Welcome to my compendium repository! Here I collect my best scripts, optimized modules, and game mechanics.
